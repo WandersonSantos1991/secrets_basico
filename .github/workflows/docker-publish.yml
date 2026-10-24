@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: usuario/fatec-aula:latest
+          tags: wandersonsantos1991/secrets_basico:latest
